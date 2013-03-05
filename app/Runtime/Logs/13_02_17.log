@@ -1,0 +1,101 @@
+[ 2013-02-17T15:47:54+08:00 ] /app/ | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T15:47:54+08:00 ] /app/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000632s ]
+[ 2013-02-17T15:47:54+08:00 ] /app/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000790s ]
+[ 2013-02-17T15:50:54+08:00 ] /app/index.php | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T15:50:54+08:00 ] /app/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000706s ]
+[ 2013-02-17T15:50:54+08:00 ] /app/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000987s ]
+[ 2013-02-17T16:01:30+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:01:30+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000958s ]
+[ 2013-02-17T16:01:30+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001256s ]
+[ 2013-02-17T16:39:45+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:39:45+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000637s ]
+[ 2013-02-17T16:39:45+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000808s ]
+[ 2013-02-17T16:42:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:42:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000763s ]
+[ 2013-02-17T16:42:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000966s ]
+[ 2013-02-17T16:42:14+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:42:14+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001143s ]
+[ 2013-02-17T16:42:14+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001352s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000593s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000720s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_template ] --START--
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run LocationTemplate Behavior [ RunTime:0.000587s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000671s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_parse ] --START--
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ParseTemplate Behavior [ RunTime:0.021154s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.021441s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_filter ] --START--
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ContentReplace Behavior [ RunTime:0.000642s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run TokenBuild Behavior [ RunTime:0.001398s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000329s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ShowRuntime Behavior [ RunTime:0.000997s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003601s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_end ] --START--
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000875s ]
+[ 2013-02-17T16:42:21+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000958s ]
+[ 2013-02-17T16:43:00+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:00+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000665s ]
+[ 2013-02-17T16:43:00+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000844s ]
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | ERR: (ThinkException) 模板不存在[./Tpl/Index/firmy2.html]
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000636s ]
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000806s ]
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ view_template ] --START--
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  args ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:02+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001874s ]
+[ 2013-02-17T16:43:13+08:00 ] /app/index.php?m=Index&a=firmy | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001987s ]
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | ERR: (ThinkException) 模板不存在[./Tpl/Index/firmy2.html]
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000456s ]
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000755s ]
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ view_template ] --START--
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  args ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:15+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | ERR: (ThinkException) 非法操作firmy2
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.006645s ]
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.006955s ]
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  file ThinkException.class.php 第 72 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  line ThinkException.class.php 第 73 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [2] file() [<a href='function.file'>function.file</a>]: Filename cannot be empty ThinkException.class.php 第 74 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  file ThinkException.class.php 第 78 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  line ThinkException.class.php 第 78 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Array to string conversion ThinkException.class.php 第 80 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  class ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:43+08:00 ] /app/index.php?m=Index&a=firmy2 | NOTIC: [8] Undefined index:  type ThinkException.class.php 第 79 行.
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ app_begin ] --START--
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000676s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000854s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_template ] --START--
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run LocationTemplate Behavior [ RunTime:0.000472s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_template ] --END-- [ RunTime:0.000557s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_parse ] --START--
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ParseTemplate Behavior [ RunTime:0.000982s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.001057s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_filter ] --START--
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ContentReplace Behavior [ RunTime:0.000372s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run TokenBuild Behavior [ RunTime:0.000504s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ShowRuntime Behavior [ RunTime:0.000550s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002010s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_end ] --START--
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Run ShowPageTrace Behavior [ RunTime:0.000561s ]
+[ 2013-02-17T16:43:50+08:00 ] /app/index.php?m=Index&a=index | INFO: Tag[ view_end ] --END-- [ RunTime:0.000630s ]
